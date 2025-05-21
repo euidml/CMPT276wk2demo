@@ -5,5 +5,5 @@ Hello world!
 
 This is my favourite picture from this weekend:
 
-![my far sunset that I took from my trip to the island](./images/sunset.jpeg)
+![this is my fav animal](./images/cat.JPG)
      
